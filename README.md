@@ -1,3 +1,3 @@
 # tic_tac_toe
 
-A new Flutter project.
+One of my first project creted to learn basic concepts of Flutter and Dart.
